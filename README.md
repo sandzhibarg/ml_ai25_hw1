@@ -1,3 +1,3 @@
 Howe Work 1
 
-Streamlit app
+[Streamlit app](https://sandzhibarg.streamlit.app/)
